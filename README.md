@@ -125,3 +125,15 @@ Telco-Customer-Churn-Analysis/
 │
 ├── README.md
 └── requirements.txt
+
+
+## 👩‍💻 Author
+
+**Prasanna Medam**
+
+- 📧 Email: prasannamedam30@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/medam-prasanna-3508b62bb
+- 🌐 Portfolio: https://insight-alchemy-deck.lovable.app
+- 🐙 GitHub: https://github.com/prasannamedam
+
+---
