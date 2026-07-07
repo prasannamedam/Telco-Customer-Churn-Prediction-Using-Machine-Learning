@@ -1,6 +1,7 @@
 # Telco-Customer-Churn-Prediction-Using-Machine-Learning
 
 📞 Telco Customer Churn Analysis and Prediction Using Machine Learning
+
 📖 About the Project :
 
 Customer churn is a major challenge in the telecommunications industry, as retaining existing customers is more cost-effective than acquiring new ones. This project analyzes customer behavior using Exploratory Data Analysis (EDA) and Machine Learning to identify the key factors influencing customer churn and predict customers who are likely to discontinue their telecom services.
